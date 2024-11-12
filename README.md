@@ -1,9 +1,9 @@
 # Kindle Review Sentiment Analysis
 
-## Overview of the Project
+### Overview of the Project
 This is a personal project of kindle review sentiment analysis  which aims to understand the working of word2vec and avg word2vec
 
-## About the Dataset
+### About the Dataset
 
 Context - This is a subset of dataset of Book reviews from Amazon Kindle Store Categor.
 
@@ -19,10 +19,10 @@ Content 5-core dataset of product reviews from Amazon Kindle Store category from
 *   summary - summary of the review
 *   unixReviewTime - unix timestamp
 
-## Workflow Diagram
+### Workflow Diagram
 ![Worflow Diagram of the Project](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/Workflow%20Diagram.png)
 
-## Data Visualization
+### Data Visualization
 
   ![Confusion Matrix using GNB](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/GaussianNB%20CM%20KindleRA.png)
 
