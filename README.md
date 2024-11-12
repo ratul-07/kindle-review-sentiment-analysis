@@ -31,3 +31,11 @@ Content 5-core dataset of product reviews from Amazon Kindle Store category from
 
 
   ![Confusion Matrix using LR](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/LogisticRegression%20CM%20%20KindleRA.png)
+
+### Results
+#### Accuracy Score
+
+* Gaussian Naive Bayes Classifier -
+* Random Forest Classifier - 
+* Logistic Regression -
+  
