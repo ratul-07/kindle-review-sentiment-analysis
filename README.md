@@ -1,4 +1,6 @@
-# Overview of the Project
+# Kindle Review Sentiment Analysis
+
+## Overview of the Project
 This is a personal project of kindle review sentiment analysis  which aims to understand the working of word2vec and avg word2vec
 
 ## About the Dataset
