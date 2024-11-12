@@ -27,7 +27,7 @@ Content 5-core dataset of product reviews from Amazon Kindle Store category from
   ![Confusion Matrix using GNB](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/GaussianNB%20CM%20KindleRA.png)
 
 
-  ![Confusion Matrix using RF](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/LogisticRegression%20CM%20%20KindleRA.png)
+  ![Confusion Matrix using RF](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/RandomForest%20CM%20KindleRA.png)
 
 
   ![Confusion Matrix using LR](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/LogisticRegression%20CM%20%20KindleRA.png)
@@ -35,7 +35,7 @@ Content 5-core dataset of product reviews from Amazon Kindle Store category from
 ### Results
 #### Accuracy Score
 
-* Gaussian Naive Bayes Classifier -
-* Random Forest Classifier - 
-* Logistic Regression -
+* Gaussian Naive Bayes Classifier - 0.74125
+* Random Forest Classifier - 0.767916
+* Logistic Regression - 0.815833
   
