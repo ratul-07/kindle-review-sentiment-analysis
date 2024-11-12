@@ -21,11 +21,11 @@ Content 5-core dataset of product reviews from Amazon Kindle Store category from
 ![Worflow Diagram of the Project](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/Workflow%20Diagram.png)
 
 ## Data Visualization
-### Confusion Matrix using Gaussian Naive Bayes Classifier
+
   ![Confusion Matrix using GNB](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/GaussianNB%20CM%20KindleRA.png)
 
-### Confusion Matrix using Random Forest Classifier
+
   ![Confusion Matrix using RF](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/LogisticRegression%20CM%20%20KindleRA.png)
 
-### Confusion Matrix using Logistic Regression
+
   ![Confusion Matrix using LR](https://github.com/ratul-07/kindle-review-sentiment-analysis/blob/main/Images/LogisticRegression%20CM%20%20KindleRA.png)
